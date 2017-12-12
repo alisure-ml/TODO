@@ -10,3 +10,5 @@
 ### 常见的损失
 > time 2017-12-12
  * cross entropy
+ * regularization loss
+ 
