@@ -17,7 +17,10 @@
 ### 度量方式
 > [tf.metrics](https://www.tensorflow.org/api_docs/python/tf/metrics)  
 > [tf.contrib.metrics](https://www.tensorflow.org/api_guides/python/contrib.metrics)  
+> [Mean_absolute_error](https://en.wikipedia.org/wiki/Mean_absolute_error)
 > time 2017-12-17  
  * IoU
  * Acc
+ * MAE
+ * RMSE
  
