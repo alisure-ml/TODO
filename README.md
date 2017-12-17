@@ -13,3 +13,8 @@
  * regularization loss
  * quadratic loss
  
+
+### 结果计算方式
+> time 2017-12-17
+ * IoU
+ 
