@@ -14,8 +14,10 @@
  * quadratic loss
  
 
-### 结果计算方式
-> time 2017-12-17
+### 度量方式
+> [tf.metrics](https://www.tensorflow.org/api_docs/python/tf/metrics)  
+> [tf.contrib.metrics](https://www.tensorflow.org/api_guides/python/contrib.metrics)  
+> time 2017-12-17  
  * IoU
  * Acc
  
