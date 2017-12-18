@@ -23,4 +23,5 @@
  * Acc
  * MAE
  * RMSE
- 
+ * AUC
+ * ROC
