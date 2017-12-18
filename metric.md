@@ -24,5 +24,5 @@
    * accuracy = (TP+TN)/(P+N)
       * 正确率：所有样本中，预测正确的样本的占比（正样本预测为正样本，负样本预测为负样本）
    * F-measure = 2/(1/precision+1/recall)
-      * F-measure = 2*TP/(TP+FP+P) 2倍的"真正样本"/(预测为正的所有样本+所有的本来是正的样本)
+      * F-measure，即F1，基于查准率与查全率的“调和平均”（(precision+recall)/2是算术平均，square_root(precision*recall)是几何平均）
  
