@@ -14,15 +14,15 @@
  
  * 一些概念：
    * FPR = FP/N
-     * False Positive Rate，假正率：所有“负样本”（FP+TN）中，预测为正样本的占比
+      * False Positive Rate，假正率：所有“负样本”（FP+TN）中，预测为正样本的占比
    * TPR = TP/P
-     * True Positive Rate，真正率：所有“正样本”（TP+FN）中，预测为正样本的占比
-   * precision = TP/(TP+FP)
-     * 精确率：所有“预测为正样本的样本”（TP+FP）中，本来是正样本的占比
+      * True Positive Rate，真正率：所有“正样本”（TP+FN）中，预测为正样本的占比
+   * precision = TP/(TP+FP) 
+      * 精确率：所有“预测为正样本的样本”（TP+FP）中，本来是正样本的占比
    * recall = TP/P
-     * 回收率：所有“正样本”（TP+FN）中，预测为正样本的占比
+      * 回收率：所有“正样本”（TP+FN）中，预测为正样本的占比
    * accuracy = (TP+TN)/(P+N)
-     * 正确率：所有样本中，预测正确的样本的占比（正样本预测为正样本，负样本预测为负样本）
+      * 正确率：所有样本中，预测正确的样本的占比（正样本预测为正样本，负样本预测为负样本）
    * F-measure = 2/(1/precision+1/recall)
-     * F-measure = 2*TP/(TP+FP+P) 2倍的"真正样本"/(预测为正的所有样本+所有的本来是正的样本)
+      * F-measure = 2*TP/(TP+FP+P) 2倍的"真正样本"/(预测为正的所有样本+所有的本来是正的样本)
  
