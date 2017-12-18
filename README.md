@@ -25,3 +25,6 @@
  * RMSE
  * AUC
  * ROC
+ * precision
+ * recall
+ * F-score
