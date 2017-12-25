@@ -36,6 +36,8 @@
 
 ### 整理模型
 * 各个网络在各个数据集上的预训练模型
+* 格式转换
+   * caffe --> npy/ckpt/pickle/pkl --> tfmodel(checkpoint)
 
 
 ### RL
