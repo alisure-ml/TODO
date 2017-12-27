@@ -39,6 +39,8 @@
 * 格式转换  
    * caffe --> npy/ckpt/pickle/pkl --> tfmodel(checkpoint)
 
+### 3D语义分割
+* 进行3D的语义分割
 
 ### RL
 * 五子棋AI
