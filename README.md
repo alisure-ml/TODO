@@ -44,3 +44,6 @@
 
 ### RL
 * 五子棋AI
+
+### Shell
+* [shell](http://blog.csdn.net/a2005120832/article/details/5656187)
