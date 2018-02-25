@@ -45,5 +45,6 @@
 ### RL
 * 五子棋AI
 
-### Shell
+### Ubuntu
 * [shell](http://blog.csdn.net/a2005120832/article/details/5656187)
+* [wget](https://www.cnblogs.com/wuheng1991/p/5332764.html)
