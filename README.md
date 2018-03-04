@@ -30,6 +30,10 @@
  * F-score
 
 
+### 一些概念
+* [非极大值抑制-NMS(non maximum suppression)](http://blog.csdn.net/shuzfan/article/details/52711706)
+
+
 ### 工具
 * 写一个常用包并发布出去
 
