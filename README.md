@@ -32,6 +32,7 @@
 
 ### 一些概念
 * [非极大值抑制-NMS(non maximum suppression)](http://blog.csdn.net/shuzfan/article/details/52711706)
+* [Must Know Tips/Tricks in Deep Neural Networks](http://210.28.132.67/weixs/project/CNNTricks/CNNTricks.html)
 
 
 ### 工具
